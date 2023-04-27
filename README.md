@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+I'm currently working on quick-deploy websites with Markdown content pulled from Notion. This allows for easy editing, publishing and content management! This is created using custom Node scripts, GitHub Actions, Astro and Cloudflare Pages Adapter.
+
+Check the scripts at [github.com/handshou/blog-content](https://github.com/handshou/blog-content).
+Docs at [docs.hansel.co](https://docs.hansel.co).
 
 <!--
 **handshou/handshou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
