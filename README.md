@@ -1,9 +1,8 @@
-### Hi 👋
+I'm currently working on websites for my friends. This comes with a custom layout and content management system so they can work independently. The project is currently using Vercel, Astro, and TinaCMS. It has evolved from custom Node scripts, Notion as CMS, GitHub Actions and Cloudflare Pages.
 
-I'm currently working on quick-deploy websites with Markdown content pulled from Notion. This allows for easy editing, publishing and content management! This is created using custom Node scripts, GitHub Actions, Astro and Cloudflare Pages Adapter.
-
-Check the scripts at [github.com/handshou/blog-content](https://github.com/handshou/blog-content).
-Docs at [docs.hansel.co](https://docs.hansel.co).
+The following are undergoing updates.
+Check the un-updated scripts at [github.com/handshou/blog-content](https://github.com/handshou/blog-content).
+Un-updated docs at [docs.hansel.co](https://docs.hansel.co).
 
 <!--
 **handshou/handshou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
