@@ -1,8 +1,4 @@
-I'm currently working on websites for my friends. This comes with a custom layout and content management system so they can work independently. The project is currently using Vercel, Astro, and TinaCMS. It has evolved from custom Node scripts, Notion as CMS, GitHub Actions and Cloudflare Pages.
-
-The following are undergoing updates.
-Check the un-updated scripts at [github.com/handshou/blog-content](https://github.com/handshou/blog-content).
-Un-updated docs at [docs.hansel.co](https://docs.hansel.co).
+I'm currently working on [Shelf](https://github.com/handshou/shelf). It helps me enjoy sharing and making websites for others.
 
 <!--
 **handshou/handshou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
